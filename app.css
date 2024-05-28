@@ -1,7 +1,15 @@
+* {
+    color: black;
+}
+
 h4 {
     color: rebeccapurple;
 }
 
 h3 {
     color: red;
+}
+
+h5 span {
+    color: peru
 }
